@@ -29,16 +29,16 @@
 </ul>
  <h2 id="features">Features</h2>
  <ul>
-  <li><a href="#login">login</a></li>
-  <li><a href="#Admin">Admin’s DashBoard</a></li>
-  <li><a href="#Patient">Patient’s DashBoard</a></li>
-  <li><a href="#Doctor">Doctor’s DashBoard</a></li>
-  <li><a href="#Report">Report-Table</a></li>
-  <li><a href="#Appointment">Appointment-Table</a></li>
-  <li><a href="#feedback">Feedback Form</a></li>
-  <li><a href="#Booking">Booking Appointment</li>
-  <li ><a href="#choose">Choosing Doctor</a></li>
-  <li ><a href="#Payment">Payment Process</a></li>
+  <li><a href="login">login</a></li>
+  <li><a href="Admin">Admin’s DashBoard</a></li>
+  <li><a href="Patient">Patient’s DashBoard</a></li>
+  <li><a href="Doctor">Doctor’s DashBoard</a></li>
+  <li><a href="Report">Report-Table</a></li>
+  <li><a href="Appointment">Appointment-Table</a></li>
+  <li><a href="feedback">Feedback Form</a></li>
+  <li><a href="Booking">Booking Appointment</li>
+  <li ><a href="choose">Choosing Doctor</a></li>
+  <li ><a href="Payment">Payment Process</a></li>
  </ul>
  <h2 id="steps">Steps to run the project in your machine</h2>
  <ol>
