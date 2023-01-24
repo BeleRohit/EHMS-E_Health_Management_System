@@ -1,13 +1,12 @@
 # E-HealthCare-Management-System
 <h2>Table Of Content</h2>
 <ol>
-  <li><a href="#description">Description</a></li>
-  <li><a href="#lat">Languages and Technology Used</a></li>
-  <li><a href="#Req">Requirements</li>
-  <li><a href="#features">Features</a></li>
-  <li><a href="#steps">Steps to run the project in your machine</a></li>
-  <li ><a href="#ws">Working-Snippets</a></li>
-  <li><a href="#cs"> Database-Snippets</a></li>
+  <li>Description</li>
+  <li>Languages and Technology Used</li>
+  <li>Requirements</li>
+  <li>Features</li>
+  <li>Steps to run the project in your machine</li>
+ 
 
 </ol>
 <h2 id="description">Description</h2>
@@ -29,16 +28,16 @@
 </ul>
  <h2 id="features">Features</h2>
  <ul>
-  <li><a href="login">login</a></li>
-  <li><a href="Admin">Admin’s DashBoard</a></li>
-  <li><a href="Patient">Patient’s DashBoard</a></li>
-  <li><a href="Doctor">Doctor’s DashBoard</a></li>
-  <li><a href="Report">Report-Table</a></li>
-  <li><a href="Appointment">Appointment-Table</a></li>
-  <li><a href="feedback">Feedback Form</a></li>
-  <li><a href="Booking">Booking Appointment</li>
-  <li ><a href="choose">Choosing Doctor</a></li>
-  <li ><a href="Payment">Payment Process</a></li>
+  <li>login</a></li>
+  <li>Admin’s DashBoard</li>
+  <li>Patient’s DashBoard</li>
+  <li>Doctor’s DashBoard</li>
+  <li>Report-Table</li>
+  <li>Appointment-Table</li>
+  <li>Feedback Form</li>
+  <li>Booking Appointment</li>
+  <li >Choosing Doctor</li>
+  <li >Payment Process</li>
  </ul>
  <h2 id="steps">Steps to run the project in your machine</h2>
  <ol>
